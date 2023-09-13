@@ -22,7 +22,7 @@ A chatbot-driven food ordering system with a web interface powered by FastAPI an
 
 ## Introduction
 
-The Food Ordering Chatbot project is designed to streamline and automate the process of food ordering. Users can interact with the chatbot to add food items to their order, remove items, complete orders, and track the status of their orders. The project also integrates with a MySQL database to store order details and order tracking information.
+The Food Ordering Chatbot project is designed to streamline and automate the process of food ordering. Users can interact with the chatbot to add food items to their orders, remove items, complete orders, and track the status of their orders. The project also integrates with a MySQL database to store order details and order tracking information.
 
 ## Features
 
@@ -37,7 +37,7 @@ The Food Ordering Chatbot project is designed to streamline and automate the pro
 
 The project consists of three main components:
 
-1. **FastAPI Web Application:** Handles incoming requests, interacts with the chatbot, and manages orders.
+1. **FastAPI Web Application:** Handles incoming requests, interacts with the chatbot and manages orders.
 2. **Dialogflow Integration:** Connects to the Dialogflow platform for natural language understanding and conversation management.
 3. **MySQL Database:** Stores order details and tracking information.
 
