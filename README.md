@@ -1,6 +1,4 @@
-# Chatbot
-
-# Pandeyji Eatery - Restaurant Management and Dialogflow Integration
+# FastAPI-Dialogflow Integration with MySQL for Restaurant Order Management
 
 ## Overview
 
