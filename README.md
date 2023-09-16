@@ -2,7 +2,7 @@
 
 ## Overview
 
-Pandeyji Eatery is a comprehensive restaurant management system with Dialogflow integration. This project is designed to streamline restaurant operations, manage orders, and provide a seamless customer experience. It includes a MySQL database for order management, a FastAPI web service for handling user queries and order operations, a website template, and CSS styles for a restaurant.
+Indian Restaurant is a comprehensive restaurant management system with Dialogflow integration. This project is designed to streamline restaurant operations, manage orders, and provide a seamless customer experience. It includes a MySQL database for order management, a FastAPI web service for handling user queries and order operations, a website template, and CSS styles for a restaurant.
 
 ## Project Components
 
@@ -47,6 +47,11 @@ Pandeyji Eatery is a comprehensive restaurant management system with Dialogflow 
 - Contains SQL statements to create the database schema and tables.
 - Inserts sample data for food items, order tracking, and orders into the respective tables.
 
+# Web Page
+
+![2023-09-16](https://github.com/Dhruvil5995/FastAPI-Dialogflow-Integration-with-MySQL-for-Restaurant-Order-Management/assets/64741151/07edc8b4-2db0-4306-8434-4a1e40cf5d60)
+
+
 ## Usage
 
 - Clone this repository to your local machine.
@@ -54,9 +59,6 @@ Pandeyji Eatery is a comprehensive restaurant management system with Dialogflow 
 - Start the FastAPI web service.
 - Access the restaurant website via a web browser to interact with the chatbot and place orders.
 
-## Credits
-
-- This project was developed by Dhaval Patel and is associated with the Codebasics YouTube Channel.
 
 ## License
 
