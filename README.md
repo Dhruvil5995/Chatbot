@@ -8,7 +8,7 @@ Indian Restaurant is a comprehensive restaurant management system with Dialogflo
 
 ### 1. MySQL Database Setup and Helper Functions
 
-- Initializes a MySQL database named "pandeyji_eatery."
+- Initializes a MySQL database named "indian restaurant."
 - Sets up tables and functions necessary for order management.
 - Provides helper functions for interacting with the database, including inserting order items, order tracking, calculating total order price, and more.
 
